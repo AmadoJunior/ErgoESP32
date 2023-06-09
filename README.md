@@ -1,5 +1,5 @@
 ## Split Ortholinear Keyboard Prototype
-### Uses low profile cherrymx switches. Mirrored switch footprint allows for the same PCB to be used on both sides for fast prototyping.
+### Uses low profile cherrymx switches. Mirrored switch footprint allows the same PCB to be used on both sides for fast prototyping.
 
 ## TO DO
 ### - Design mutiplexer daughter board
