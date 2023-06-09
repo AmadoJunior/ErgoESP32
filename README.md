@@ -1,12 +1,11 @@
-# ErgoESP32
+## Split Ortholinear Keyboard Prototype
+### Uses low profile cherrymx switches. Mirrored switch footprint allows for the same PCB to be used on both sides for fast prototyping.
 
-## Split Ortholinear Keyboard
-### Mirrored switch footprint allows same PCB to be used on both sides.
-
-## ** Upcoming Features **
-### - Implement I2C communication between master and slave board
-### - Implement CP2102N USB-to-UART bridge controller
-### - Implement lipo battery connector
+## TO DO
+### - Design mutiplexer daughter board
+### - Add I2C communication between master and daughter board
+### - Add CP2102N USB-to-UART bridge controller on master board
+### - Lipo battery connector
 
 # Preview
 ![ErgoProject3D](https://github.com/AmadoJunior/ErgoESP32/assets/38221553/fcc17bca-3bab-4bb0-9972-0c9fc42b3ed2)
