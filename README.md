@@ -5,7 +5,8 @@
 ### - Design mutiplexer daughter board
 ### - Add I2C communication between master and daughter board
 ### - Add CP2102N USB-to-UART bridge controller on master board
-### - Lipo battery connector
+### - Implement battery charging circuit
+### - Add lipo battery connector
 
 # Preview
 ![ErgoProject3D](https://github.com/AmadoJunior/ErgoESP32/assets/38221553/fcc17bca-3bab-4bb0-9972-0c9fc42b3ed2)
