@@ -10,5 +10,5 @@
 
 # Preview
 ![ErgoProject3D](https://admbuilt.s3.us-east-2.amazonaws.com/MUI-Portfolio/PCBS/SplitErgo/SplitErgo3D.PNG)
-![Main](https://github.com/AmadoJunior/ErgoESP32/assets/38221553/b1004720-1559-4f09-b0b6-ef6f7b20778f)
-![Matrix](https://github.com/AmadoJunior/ErgoESP32/assets/38221553/87ce4542-06aa-420b-afd1-e36a6a6a1536)
+![Main](https://admbuilt.s3.us-east-2.amazonaws.com/MUI-Portfolio/PCBS/SplitErgo/MainSche.PNG)
+![Matrix](https://admbuilt.s3.us-east-2.amazonaws.com/MUI-Portfolio/PCBS/SplitErgo/MatrixSche.PNG)
